@@ -2,7 +2,13 @@ package conditional;
 
 public class If {
 	
+	private void bala() {
+		// TODO Auto-generated method stub
+
+	}
+	
 	public static void main(String[] args) {
+		
 		
 		int age =16;
 		
